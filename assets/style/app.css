@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profileimage {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.profile h5 {
+    color: #fff;
+    transform: translateY(-12px);
+}
+.BIODATA {
+    background: linear-gradient(#ffffff 0%, #ffffffc9 40%, #7420d300 100%); padding-bottom: 200px;
+    transform: translateY(-1px);
+}
+.footer {
+    background-color: #fff;
+}
+.ORGANISASI {
+    background: linear-gradient(#ffffff 0%, #ffffffc9 40%, #7420d300 100%); padding-bottom: 200px;
+    transform: translateY(-1px);
+}
+.footer {
+    transform: translateY(-1px);
+    
+}
+.BIODATA h1 {
+    transform: translateY(-20px);
+}
+.BIODATA {
+    padding-top: 160px;
+}
+.container {
+    padding-top: 90px;
+}
